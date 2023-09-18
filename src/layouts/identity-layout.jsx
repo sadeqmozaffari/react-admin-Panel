@@ -1,6 +1,6 @@
 import { Outlet } from "react-router-dom";
-import ChangeLanguage from "../../components/change-language";
-import ChangeTheme from "../../components/change-theme";
+import ChangeLanguage from "../components/change-language";
+import ChangeTheme from "../components/change-theme";
 
 const IdentityLayout = () => {
   return (
